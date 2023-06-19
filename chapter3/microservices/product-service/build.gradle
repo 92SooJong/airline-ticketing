@@ -1,7 +1,7 @@
 plugins {
 	id 'java'
-	id 'org.springframework.boot' version '2.7.12'
-	id 'io.spring.dependency-management' version '1.0.15.RELEASE'
+	id 'org.springframework.boot' version '2.7.12' // 의존성은 Spring boot 버전을 기준으로 자동으로 설정된다.
+	id 'io.spring.dependency-management' version '1.0.15.RELEASE' // 펫 Jar를 빌드하고, 스프링부트 스타터 의존성을 관리한다.
 }
 
 group = 'se.magnus.microservices.core.product'
