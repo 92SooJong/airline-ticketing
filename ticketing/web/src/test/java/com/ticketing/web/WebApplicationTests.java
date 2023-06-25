@@ -1,13 +1,13 @@
-package com.soojong.ticketing;
+package com.ticketing.web;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TicketingApplicationTests {
+class WebApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
