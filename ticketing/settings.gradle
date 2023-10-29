@@ -1,5 +1,0 @@
-rootProject.name = 'ticketing'
-
-include 'domain'
-include 'web'
-include 'utility'
